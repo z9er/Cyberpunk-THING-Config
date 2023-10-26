@@ -1,0 +1,11 @@
+{
+  "hideEmptyConsumableSlots": true,
+  "hideEmptyCyberwareAbilitySlots": true,
+  "smallSlots": true,
+  "defaultSlotOpacity": 1,
+  "slotOpacityWhileSubtitlesOnScreen": 0,
+  "fadeInDelay": 1.5,
+  "fadeInDuration": 2,
+  "numSlots": 0,
+  "holdDuration": 0.3
+}
